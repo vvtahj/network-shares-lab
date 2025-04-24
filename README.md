@@ -37,8 +37,8 @@ This lab taught me how to **control who gets access to certain files or folders*
 
 ---
 
-## 🖼️ Screenshots  
-*(Add visuals showing permission settings, folder sharing, failed access messages, successful access after group assignment, etc.)*
+## 🖼️   
+* visuals showing permission settings, folder sharing, failed access messages, successful access after group assignment, etc. *
 
 ---
 
